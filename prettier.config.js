@@ -1,0 +1,8 @@
+module.exports = {
+  plugins: ["prettier-plugin-tailwindcss"],
+  singleQuote: false,
+  trailingComma: "all",
+  semi: true,
+  tabWidth: 2,
+  printWidth: 100,
+};
